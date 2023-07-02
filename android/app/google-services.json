@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210748468246",
+    "project_id": "helponwheels-254d0",
+    "storage_bucket": "helponwheels-254d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210748468246:android:844042ae590a4f836b1937",
+        "android_client_info": {
+          "package_name": "com.example.helponwheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210748468246-7khhre9jg1msqll4r9b2lpl6orb6cfpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPmvRnEUvsr8DjeYyOgDdacv-FOA4rkFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210748468246-7khhre9jg1msqll4r9b2lpl6orb6cfpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
