@@ -145,6 +145,7 @@ class _LoginPageState extends State<LoginPage> {
       return;
     }
     try {
+      
       await FirebaseAuth.instance.signInWithEmailAndPassword(
         email: _emailtextcontroller.text.trim(),
         password: _passwordtextcontroller.text.trim(),
